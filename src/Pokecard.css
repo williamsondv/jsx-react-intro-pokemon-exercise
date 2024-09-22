@@ -1,0 +1,18 @@
+.card {
+  background-color: steelblue;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 7px;
+  color: white;
+  width: 10rem;
+  height: 15rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.pokeName {
+  color: yellow;
+  font-size: x-large;
+}
